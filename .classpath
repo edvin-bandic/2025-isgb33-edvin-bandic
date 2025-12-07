@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="laboration-3/src"/>
+	<classpathentry kind="lib" path="laboration-3/lib/bson-5.1.0.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/bson-record-codec-5.1.0.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/javalin-6.1.3.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-http-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-io-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-jakarta-servlet-api-5.0.2.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-security-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-server-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-servlet-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-util-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-webapp-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/jetty-xml-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/kotlin-stdlib-1.9.22.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/kotlin-stdlib-jdk7-1.9.22.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/kotlin-stdlib-jdk8-1.9.22.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/mongodb-driver-core-5.1.0.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/mongodb-driver-sync-5.1.0.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/slf4j-simple-2.0.12.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/websocket-core-common-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/websocket-core-server-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/websocket-jetty-api-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/websocket-jetty-common-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/websocket-jetty-server-11.0.20.jar"/>
+	<classpathentry kind="lib" path="laboration-3/lib/websocket-servlet-11.0.20.jar"/>
+	<classpathentry kind="output" path="laboration-3/bin"/>
+</classpath>
